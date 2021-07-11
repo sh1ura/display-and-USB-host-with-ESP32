@@ -13,3 +13,9 @@ Hardware SPI interface on ESP32 could not be shared by USB and OLED, so OLED is 
 Two sample programs are included. 
 - merge : Simple key code shown on OLED
 - calc : always accurate RPN calc, <a href="https://youtu.be/ymGBZuGeglc">YouTube</a>
+
+Used parts:
+- ESP32 https://ja.aliexpress.com/item/4000650306925.html
+- USB host adapter https://www.amazon.co.jp/gp/product/B074HTPK13
+- OLED display https://www.amazon.co.jp/gp/product/B08QZDJ4Q6
+- 2.2uF capaciter
