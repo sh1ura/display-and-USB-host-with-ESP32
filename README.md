@@ -12,6 +12,7 @@ Hardware SPI interface on ESP32 could not be shared by USB and OLED, so OLED is 
 
 Two sample programs are included. 
 - merge : Simple key code shown on OLED
+- mouse : Simple mouse button / motion on OLED, <a href="https://youtu.be/ue8MWqKrvLU">YouTube</a>
 - calc : always accurate RPN calc, <a href="https://youtu.be/ymGBZuGeglc">YouTube</a>
 
 Used parts:
