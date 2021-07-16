@@ -8,6 +8,9 @@ An Example of combinations of
 - Adafruit display control library
 - <a href="https://github.com/felis/USB_Host_Shield_2.0">USB_Host_Shield_2.0 library</a>
 
+![board](https://user-images.githubusercontent.com/86639425/125979845-41f77361-adc0-48ed-a229-11552737df96.jpg)
+
+
 Hardware SPI interface on ESP32 could not be shared by USB and OLED, so OLED is controlled via software SPI with remainging GPIO (general PIO) ports.
 
 Two sample programs are included. 
